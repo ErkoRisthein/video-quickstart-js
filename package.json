@@ -51,6 +51,6 @@
     "rimraf": "^2.6.1",
     "stackblur-canvas": "^1.4.0",
     "twilio": "^3.19.1",
-    "twilio-video": "^2.0.0-beta4",
+    "twilio-video": "^2.0.0-beta4"
   }
 }
